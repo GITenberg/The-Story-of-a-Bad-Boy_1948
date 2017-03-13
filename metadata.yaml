@@ -1,5 +1,8 @@
 _repo: The-Story-of-a-Bad-Boy_1948
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aldrich, Thomas Bailey
@@ -14,6 +17,8 @@ description: "The Story of a Bad Boy (1870) is a semi-autobiographical novel by 
   \ New Hampshire. The book is considered the first in the \"bad boy\" genre of literature,\
   \ though the text's opening lines admit that he was \"not such a very bad, but a\
   \ pretty bad boy\".\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1948#The-Story-of-a-Bad-Boy
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
 identifiers:
